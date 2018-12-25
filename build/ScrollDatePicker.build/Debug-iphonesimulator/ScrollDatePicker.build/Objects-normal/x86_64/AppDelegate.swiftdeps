@@ -224,6 +224,8 @@ depends-member:
 - ["So21UIApplicationDelegateP", "applicationWillResignActive"]
 - ["So21UIApplicationDelegateP", "applicationWillTerminate"]
 - ["So21UIApplicationDelegateP", "window"]
+- !private ["So26UICollectionViewDataSourceP", "init"]
+- !private ["So24UICollectionViewDelegateP", "init"]
 - !private ["So18UIContentContainerP", "init"]
 - !private ["So17UICoordinateSpaceP", "init"]
 - !private ["So17UICoordinateSpaceP", "makeKeyAndVisible"]
@@ -305,6 +307,7 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "makeKeyAndVisible"]
 - !private ["So30UIResponderStandardEditActionsP", "rootViewController"]
 - ["So30UIResponderStandardEditActionsP", "window"]
+- !private ["So20UIScrollViewDelegateP", "init"]
 - !private ["So16UIStateRestoringP", "init"]
 - !private ["So18UITraitEnvironmentP", "init"]
 - !private ["So18UITraitEnvironmentP", "makeKeyAndVisible"]
@@ -380,6 +383,8 @@ depends-nominal:
 - !private "So21UIAppearanceContainerP"
 - "So13UIApplicationC"
 - "So21UIApplicationDelegateP"
+- !private "So26UICollectionViewDataSourceP"
+- !private "So24UICollectionViewDelegateP"
 - !private "So18UIContentContainerP"
 - !private "So17UICoordinateSpaceP"
 - !private "So13UIDynamicItemP"
@@ -389,6 +394,7 @@ depends-nominal:
 - "So30UIPasteConfigurationSupportingP"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
 - !private "So16UIStateRestoringP"
 - !private "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"

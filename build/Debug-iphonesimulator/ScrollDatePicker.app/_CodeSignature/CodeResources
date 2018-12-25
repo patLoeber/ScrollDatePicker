@@ -56,6 +56,10 @@
 		<data>
 		/5UKC4bEt0P3Jv5/nNy6X8Lerek=
 		</data>
+		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
+		<data>
+		8cBimLWS9Sj1vdh/zcJ98lCtP08=
+		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
 		tzIjxFJIAHPpvfCaHag1J1RrPX0=
@@ -168,6 +172,13 @@
 			<key>hash2</key>
 			<data>
 			nXUFhi7GOMbcCOPX3iqPwFs3a7fOWwPv5NbjPjfItFg=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Cc4TmsfKxUrTIyAsNA7Pv3lal4qr15POwEjXqtW8Ci4=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftUIKit.dylib</key>
