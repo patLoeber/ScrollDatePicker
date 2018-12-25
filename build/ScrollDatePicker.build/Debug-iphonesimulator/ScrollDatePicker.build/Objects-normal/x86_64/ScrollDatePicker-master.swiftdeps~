@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "05939095c1df6d2d4ea4de34823f7bee"
-build_time: [1545770760, 178070000]
-inputs:
-  "/Users/patrickPatricklober/Documents/XCodeProjects/ScrollDatePicker/ScrollDatePicker/ViewController.swift": [1545770322, 0]
-  "/Users/patrickPatricklober/Documents/XCodeProjects/ScrollDatePicker/ScrollDatePicker/AppDelegate.swift": [1545759766, 0]
-  "/Users/patrickPatricklober/Documents/XCodeProjects/ScrollDatePicker/ScrollDatePicker/DateCell.swift": [1545770759, 0]
